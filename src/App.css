@@ -1,0 +1,28 @@
+.header{
+  height: 50px;
+  position: fixed;
+  width: 100%;
+  left:0;
+  top:0;
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
+.header span{
+
+}
+.content{
+  position: fixed;
+  top:50px;
+  left:0;
+  right:0;
+  bottom:50px;
+}
+.footer{
+  height: 50px;
+  height: 50px;
+  position: fixed;
+  width: 100%;
+  left:0;
+  bottom:0;
+}
